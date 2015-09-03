@@ -1,0 +1,14 @@
+{
+	"category" : "TodoApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TodoApplication",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
