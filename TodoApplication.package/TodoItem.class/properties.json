@@ -1,0 +1,15 @@
+{
+	"category" : "TodoApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"isDone" ],
+	"name" : "TodoItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
