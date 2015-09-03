@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTodoApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTodoApplication",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
