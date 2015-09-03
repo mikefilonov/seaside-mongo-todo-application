@@ -13,8 +13,8 @@ renderContentOn: html
 			
 			
 				(i isDone)
-					ifTrue: [  html anchor callback: [ i isDone: false ]; with: [ html deleted: i label ] ]
-					ifFalse: [ html anchor callback: [ i isDone: true ]; with: [ html text: i label ] ].
+					ifTrue: [  html anchor callback: [ i isDone: false; save ]; with: [ html deleted: i label ] ]
+					ifFalse: [ html anchor callback: [ i isDone: true; save ]; with: [ html text: i label ] ].
 				html space.
 				html anchor callback: [ i remove ]; with: [ html tbsGlyphIcon iconRemove  ] ].
 		 		].
